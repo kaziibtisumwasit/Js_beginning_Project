@@ -1,0 +1,43 @@
+.box{
+      width: 150px;
+      height: 150px;
+      border: 2px solid black;
+}
+
+.box-container,.take-input_value{
+      margin-top:100px;
+    display:flex;
+    flex-wrap:wrap;
+      gap:20px;
+      border: 2px solid rgb(149, 0, 255);
+}
+.input_container{
+      margin-top: 50px;
+      border: 2px solid blue;
+    
+
+}
+#input{
+      border:3px solid red;
+      padding:50px;
+}
+#btn,#btn2,.in,.bt{
+      border:2px solid green;
+      border-radius: 4px;
+      padding:30px;
+}
+.take-input_value{
+      border:0px;
+}
+.user-data{
+      padding:20px;
+      border:2px solid red;
+      width: 150px;
+      height:150px;
+      margin:5px;
+}
+#API_userData-container{
+      height: auto;
+      display:flex;
+      justify-content: center;
+}
